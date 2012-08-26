@@ -9,7 +9,8 @@ size(400,400);
 background(255,179,60);
 
 fill(0,100,177);
-stroke(0,0);
+noStroke();
+smooth();
 rect(50,100,300,200);
 
 fill(255,179,60);
